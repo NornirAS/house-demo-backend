@@ -1,3 +1,5 @@
 curl -X GET http://localhost:3333/floor-plan/list/jevgeni.glazunov@gmail.com
 ###
 curl -X GET http://localhost:3333/floor-plan/jevgeni.glazunov@gmail.com/demo
+###
+curl -X GET http://localhost:3334/auth/login

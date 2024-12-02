@@ -11,6 +11,7 @@
   "author": "Jevgeni Glazunov",
   "license": "MIT",
   "dependencies": {
+    "@norniras/hive-agent": "^3.0.0",
     "@norniras/hive-client": "^0.3.0",
     "cors": "^2.8.5",
     "dotenv": "^16.0.2",
